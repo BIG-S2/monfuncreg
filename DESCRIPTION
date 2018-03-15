@@ -1,0 +1,10 @@
+Package: monfuncreg
+Type: Package
+Title: Monotone Nonparametric Regression for Functional/Longitudinal Data
+Version: 1.0
+Date: 2018-03-14
+Author: Ziqi Chen, Hongtu Zhu
+Maintainer: Ziqi Chen <chenzq453@gmail.com>
+Description: Monotone Nonparametric Regression for Mean Function in Functional/Longitudinal Models. 
+License: GPL (>= 2)
+LinkingTo: Rcpp, RcppArmadillo

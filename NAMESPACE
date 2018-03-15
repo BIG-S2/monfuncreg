@@ -1,0 +1,3 @@
+useDynLib(monfuncreg)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
