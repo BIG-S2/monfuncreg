@@ -7,7 +7,7 @@ monfuncreg provides a increasing monotone estimator of the mean regression funct
 1. [The Package method](#The Package method)
     1. [Model](#Model)
     2. [Estimating method](#method)
-    3. [Data analysis](#Data analysis)
+    3. [Data analysis](#Dataanalysis)
     4. [Code for the data analysis](#Code)
 
 
@@ -47,7 +47,7 @@ $$
   Our constrained estimator of $m(s)$, denoted as $\widehat{m}_I(s)$,  is then calculated by using a numerical inversion.
 
 
-# Data analysis <a name="Data analysis"></a>
+# Data analysis <a name="Dataanalysis"></a>
 Our work is motivated by an analysis of structural brain Magnetic Resonance Imaging
 (MRI) data extracted from the Alzheimer's Disease Neuroimaging Initiative (ADNI). The
 ADNI is an ongoing public-private partnership to test whether genetic, structural and
